@@ -15,3 +15,7 @@ Allows for 3 different version of D&D character stat dice roll techniques
 
 [Python program analzing the Enron data set to predict Persons of Interest](https://github.com/TheHalfling/Enron_POI)
 A series machine learning program created as part of the Udacity Data Analyst Nanodegree
+
+## PHP
+[Epic Fail Generator - Random generator of Epic Fail Descriptions](https://github.com/TheHalfling/EpicFailGenerator)
+A web form that generators a specified number of phrases to describe an epic fail
