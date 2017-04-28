@@ -10,7 +10,7 @@ Interactive visualization created as part of the Udacity Data Analyst Nanodegree
 A series of charts in R created as part of the Udacity Data Analyst Nanodegree
 
 ## Python
-[Python program usine pygame to create a gui of random dice roll generator](https://github.com/TheHalfling/dnd-stat-generator)
+[Python program using pygame to create a gui of random dice roll generator](https://github.com/TheHalfling/dnd-stat-generator)
 Allows for 3 different version of D&D character stat dice roll techniques
 
 [Python program analzing the Enron data set to predict Persons of Interest](https://github.com/TheHalfling/Enron_POI)
