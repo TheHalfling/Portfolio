@@ -23,5 +23,5 @@ A web form that generators a specified number of phrases to describe an epic fai
 [Smash-Up Deck Randomizer - Random deck assignment for Smash Up card game](https://github.com/TheHalfling/RandomGenerators/Smash-Up-Random-Decks)
 A web form that allows users to input number of players and select expansion decks available and returns randomized deck assignments for playing the game (each player gets assigned two randomly selected decks)
 
-[B-Movie Title Generator - Random generator of cheesy Sci-Fi B-Movie Titles](https://github.com/TheHalfling/RandomGenerators/B-Movie Titles)
+[B-Movie Title Generator - Random generator of cheesy Sci-Fi B-Movie Titles](https://github.com/TheHalfling/RandomGenerators/B-Movie-Titles)
 A web form that allows the user to select a number of titles to be returned and then generates a list of randomized super cheest Sci-Fi titles
