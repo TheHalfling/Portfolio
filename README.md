@@ -25,3 +25,7 @@ A web form that allows users to input number of players and select expansion dec
 
 [B-Movie Title Generator - Random generator of cheesy Sci-Fi B-Movie Titles](https://github.com/TheHalfling/RandomGenerators/B-Movie-Titles)
 A web form that allows the user to select a number of titles to be returned and then generates a list of randomized super cheest Sci-Fi titles
+
+## Javascript
+[Code Snippets for Adobe Forms](https://github.com/TheHalfling/AcrobatFormJavaScript)
+A set of code snippets used to create Adobe Acrobat Forms - includes calculations, image file pasting, submit by email
